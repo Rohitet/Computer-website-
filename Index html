@@ -1,7 +1,5 @@
 /computer-website  
-│── index.html  
-│── about.html  
-│── contact.html  
+│── index.html   
 │── styles.css  
 │── script.js  
 │── images/ (for images)
